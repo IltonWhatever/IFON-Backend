@@ -1,0 +1,9 @@
+node_modules/
+public/temp/*
+!public/temp/.gitkeep
+public/uploads/covers/*
+!public/uploads/covers/.gitkeep
+public/uploads/attachments/*
+!public/uploads/attachments/.gitkeep
+npm-debug.log
+.env
